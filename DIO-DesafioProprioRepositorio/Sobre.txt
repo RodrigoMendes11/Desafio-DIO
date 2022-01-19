@@ -1,0 +1,1 @@
+Esse é um algoritmo de Lista escrito na linguagem C. Ele lê 4 perfis que incluem: nome, endereço e idade e logo após imprime os mesmos. 
