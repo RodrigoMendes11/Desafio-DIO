@@ -1,2 +1,2 @@
 # Desafio-DIO
-Desafio da DIO sobre repositório próprio
+Neste repositório estarei mostrando um algoritmo de lista na linguagem C.
